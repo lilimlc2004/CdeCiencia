@@ -20,7 +20,7 @@ Bueno, estos pequeños amiguitos nuestros son unos súper agentes infecciosos qu
 Así como existen diferentes tipos de helado, también hay diferentes tipos de patógenos como las siguientes:</p>
 <br>
   <br>
-* Bacterias: son procariotas, lo que quiere decir que tienen una membrana celular y  tienen una forma esférica o cilíndrica.
+<li>Bacterias</li>: son procariotas, lo que quiere decir que tienen una membrana celular y  tienen una forma esférica o cilíndrica.
   <br>
   <br>
 * Parásitos: Pueden ser uni o multicelulares, pequeños microorganismos necesitan de un huésped para sobrevivir, además que su modo de reproducirse es de manera sexual y asexual.
