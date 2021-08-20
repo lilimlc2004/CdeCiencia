@@ -28,7 +28,6 @@ Así como existen diferentes tipos de helado, también hay diferentes tipos de p
   <br>
 * Virus: son organismos infecciosos  los cuales no son considerados células y que al igua que los parásitos, necesitan d un húesped para sobrevivir. Esta compuesto por ADN y ARN.
   <br>
-  <br>
 * Hongos: Son eucariotas, causan infecciones a nivel superficial o profundo. También como los parásitos, pueden ser  uni o multicelulares ya que son seres heterótrofos; su forma de reproducirse es por medio de esforas.
   <br>
 <br>
@@ -60,22 +59,28 @@ Cada vez que empezamos un proyecto, siempre viene con nosotros aquellas pregunta
 Para nosotros, eso fue la base primordial para la elección de un proyecto.
 Nos hemos basado en seguir los siguientes pasos de manera cronológica:
   <br>
+ 
+ <br>Seleccionar un tema.
   <br>
-* Seleccionar un tema.
-  <br>
-  <br>
+ 
 * Identificar un problema del tema seleccionado.
   <br>
-  <br>
+  
 * Definir e investiga del problema
   <br>
-  <br>
+  
 * Investigar antecedentes.
+   <br>
 * Crear una hipotésis.
+   <br>
 * Probar hipotésis mediante algoritmos de dimensión fractal de imagenes de CT de pulmones.
+   <br>
 * Analizar resultados obtenidos.
+   <br>
 * Realizar una conclusión.
+   <br>
 * Hacer un vídeo.
+   <br>
 
 
 
@@ -100,23 +105,22 @@ Sin embargo, el excel de nuestro mayor interés es el de los pacientes positivos
   <br>
 1.Número de dentificación del paciente.
   <br>
-  <br>
+  
 2. Edad.
   <br>
-  <br>
+ 
 3. Sexo
   <br>
-  <br>
+  
 4. Lugar
   <br>
-  <br>
+  
 5. Tiempo desde que se presentaron los síntomas.
   <br>
-  <br>
+ 
 6. Gravedad del paciente.
   <br>
-  <br>
-
+  
 
 Después de tener a nuestra disposición la base de datos, se procedió a calcular la dimensión fractal de nuestros pulmones sanos y pulmones dañados con una programación en Matlab la cuál fue desarrollado por el Doctor Omar Alejandro Olvera Guerrero quien tiene un posgrado en Ciencias y Tecnologías de la Información. Él impartió la materia de procesamiento de señales biomédicas  en la Universidad Politécnica de Chiapas y fue allí donde explicó la importancia del cálculo de las dimensaiones fractales aportados a las ciencias médicas.
 
@@ -147,14 +151,21 @@ Hay que agregar que el cálculo de las dimensiones fractales en las ciencias mé
 
 <h2><b>Referencias bibliográficas.</b></h2>
 [1] Cruz, M. P., Santos, E., Cervantes, M. V., & Juárez, M. L. (2021). COVID-19, una emergencia de salud pública mundial. Revista Clínica Española, 221(1), 55-61.
+   <br>
 [2] Quiñones-Laveriano, D. M., Soto, A., & Quilca-Barrera, L. (2021). Frecuencia de coinfección por patógenos respiratorios y su impacto en el pronóstico de pacientes con COVID-       19. Revista de la Facultad de Medicina Humana, 21(3).
+   <br>
 [3] Xing, Q. (2020, 1 enero). Precautions are Needed for COVID-19 Patients with Coinfection of Common Respiratory Pathogens. MedRxiv.                                                   https://www.medrxiv.org/content/10.1101/2020.02.29.20027698v2.full
+   <br>
 [4] Moran, M., Moran, M., Moran, M., & M. (s. f.). Salud. Desarrollo Sostenible. Recuperado 19 de agosto de 2021, de https://www.un.org/sustainabledevelopment/es/health/
+   <br>
 [5] Tarazona, S. T., & Valdivia, A. V. (2020, 1 mayo). Coinfección por patógenos respiratorios virales y bacterianos detectados por métodos moleculares en pacientes hospitalizados por COVID-19 y su impacto en la mortalidad y desenlaces desfavorables. Universidad Ricardo Palma. https://repositorio.urp.edu.pe/handle/URP/3035
+   <br>
 [6] Xie, P. (2020b, abril 5). COVID-CT-Dataset: A CT Scan Dataset about COVID-19 - Towards Data Science. Towards Data Science.
     https://towardsdatascience.com/covid-ct-dataset-a-   ct-scan-dataset-about-covid-19-fb391de55ae6
+   <br>
 [7] U. (s. f.-a). GitHub - UCSD-AI4H/COVID-CT: COVID-CT-Dataset: A CT Scan Dataset about COVID-19. GitHub. Recuperado 19 de agosto de 2021, de
     https://github.com/UCSD-AI4H/COVID-CT
+   <br>
 
 
 #Video
