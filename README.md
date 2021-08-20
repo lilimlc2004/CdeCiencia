@@ -140,24 +140,29 @@ Se cálculo el promedio de los pulmones sanos arrojando 1.84615929 además de ob
 Inició la comparación del promedio de los pulmones sanos con cada resultado obtenido de cada estudio de CT de pacientes con COVID-19. En donde se demostró que 189 de las 349 muestras de CT, estuvieron por encima del promedio haciendo que este sea un 54.15% del total de las muestras.
   <br>
   <img src="valoresimportantes.JPG">
+  <br>
 De acuerdo a la descripción, se clasifico y se observaron los resultados de la siguiente manera:
   <br>
 Se destacó el Grupo de mortalidad de acuerdo a su descripción, ya que en estos se pudo observar  que lamentablemente estas personas tuvieron un DF mayor al promedio:
   <br>
   <img src="Grupomortalidad.JPG">
-
+<br>
 A comparación del grupo de sobreviviente de acuerdo a su descripción, estos presentaron un DF menor al rango del promedio:
 <br>
   <img src="gruporecuperación.JPG">
+  <br>
 Pacientes quienes de acuerdo a su descripción mostraron ser asintomáticos, la mayoria de estos, siempre estaban cerca al rango del promedio de covid:
   <br>
   <img src="Grupoasintomatico.JPG">
+  <br>
  Fue raro encontrar pacientes siendo niños y la mayoría de estos, manejaban debajo del rango:
   <br>
   <img src="Gruponiños.JPG">
+  <br>
  Por último, los pacientes con covid19 embarazadas fue también un resultado que destacar por el hecho de estar en esta situación y aunque 2 de 3 se acercó al rango normal de covid:
 <br>
   <img src="grupoembarazada.JPG">
+  <br>
 <h3><b>Conclusiones </b></h3>
 
 A nuestra consideración como equipo y como antes se explicó, podría existir una posibilidad de hacer notar una mejoría hacia la recuperación del paciente y poder observar también un posible grado de mortalidad, esto de acuerdo a la comparación del promedio de las pruebas de pulmón con covid. Con esto, se podría comprobar la hipótesis el cual, si la DF de la imagen es mayor al del promedio, podría estar en una situación severa, ya que los alveolos estarían  llenos de flujos provocando que sean propensos a nuevos patógenos respiratorios como: neumonía,  y se obtendría una frecuencia respiratoria baja, en caso contrario, existe una recuperación y tendríamos a nuestros alveolos débiles provocando una frecuencia respiratoria mucho más inestable.
@@ -190,6 +195,6 @@ Hay que agregar que el cálculo de las dimensiones fractales en las ciencias mé
   <br>
 * Estudiante 2: Lilián Michelle Lopez Carrasco
  
-    </body>
+ </body>
 </htlm>
 
