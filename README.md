@@ -35,7 +35,7 @@ Así como existen diferentes tipos de helado, también hay diferentes tipos de p
   <img src="Virus.JPG" width=200>
   <br>
  
-<li>Hongos: Son eucariotas, causan infecciones a nivel superficial o profundo. También como los parásitos, pueden ser  uni o multicelulares ya que son seres heterótrofos; su forma de reproducirse es por medio de esforas.</li>
+<li>Hongos: Son eucariotas, causan infecciones a nivel superficial o profundo. También como los parásitos, pueden ser  uni o multicelulares ya que son seres heterótrofos; su forma de reproducirse es por medio de esporas.</li>
     <img src="Hongo.JPG" width=200>
   <br>
 <br>
