@@ -80,11 +80,11 @@ La mortalidad de los pacientes infectados con COVID-19 suele estar alrededor del
 Objetivo principal: Evaluar la frecuenciade recuperación por  coinfección con patógenos respiratorios bacterianos y virales detectados en  mediante algoritmos de estimación de la dimensión fractal de las imagenes de tomografía computarizada (CT) en pulmones de personas con COVID-19.
 
 
-  <h2><b>Hipotésis.</h2></b>
+  <h2><b>Hipotésis.</b></h2>
 Los pacientes que muestran una dimensión fractal más alto del promedio de un pulmón sano, pertenecen a un grupo severo de COVID-19,tendiendo a causar coinfección con más patógenos.
 
 
-### 6.Comprobación de la hipotésis.
+<h2><b>Comprobación de la hipotésis.</b></h2>
 Para comprobar nuestra hipotésis, hemos trabajado con una base de datos extraída de "Towards data science" llamada: COVID-CT-Dataset: A CT Scan Dataset about COVID-19. En la cual, fomenta la investigación de la IA en el uso de las CT para combatir la COVID-19.[6]
 La base de datos contiene 349 tomografías  computarizadas  de pulmones positivas para COVID-19 y 396 muestras de pulmones sanos, ambas tienen su correspondiente archivo excel.[7]
 Sin embargo, el excel de nuestro mayor interés es el de los pacientes positivos a SARS-COV-2, ya que en él se encuentran datos esenciales para nuestra investigación tales como:
@@ -100,7 +100,7 @@ Después de tener a nuestra disposición la base de datos, se procedió a calcul
 
 
 
-### Resultados
+<h2><b> Resultados </b></h2>
 Se cálculo el promedio de los pulmones sanos arrojando 1.84615929 además de obtener un valor mínimo de 1.5742 y teniendo un 2.081 como valor máximo de DF de pulmones dañados.
 
 Inició la comparación del promedio de los pulmones sanos con cada resultado obtenido de cada estudio de CT de pacientes con COVID-19. En donde se demostró que 189 de las 349 muestras de CT, estuvieron por encima del promedio haciendo que este sea un 54.15% del total de las muestras.
@@ -116,14 +116,14 @@ O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de 
 <img src="Logo_CdeCMx.png" width=200>
 
 
-### Conclusiones
+<h2><b>Conclusiones </b></h2>
 
 A nuestra consideración como equipo y como antes se explicó, podría existir una posibilidad de hacer notar una mejoría hacia la recuperación del paciente y poder observar también un posible grado de mortalidad, esto de acuerdo a la comparación del promedio de las pruebas de pulmón con covid. Con esto, se podría comprobar la hipótesis el cual, si la DF de la imagen es mayor al del promedio, podría estar en una situación severa, ya que los alveolos estarían  llenos de flujos provocando que sean propensos a nuevos patógenos respiratorios como: neumonía,  y se obtendría una frecuencia respiratoria baja, en caso contrario, existe una recuperación y tendríamos a nuestros alveolos débiles provocando una frecuencia respiratoria mucho más inestable.
 Por último, debemos de tomar en cuenta de que para hacer una amplia investigación deberíamos comprobar las imágenes con los diferentes equipos pertenecientes al gabinete de imagenología y de laboratorio, ya que no debemos descartar ciertos posibles diagnósticos porque cada uno muestra diferentes resultados y hacen un mejor diagnóstico.
 
 Hay que agregar que el cálculo de las dimensiones fractales en las ciencias médicas aún no es un campo completamente amplio, por lo que se sugiere seguir investigando y probando diferentes métodos para poder obtener mejores resultados.
 
-### Referencias bibliográficas.
+<h2><b>Referencias bibliográficas.</b></h2>
 [1] Cruz, M. P., Santos, E., Cervantes, M. V., & Juárez, M. L. (2021). COVID-19, una emergencia de salud pública mundial. Revista Clínica Española, 221(1), 55-61.
 [2] Quiñones-Laveriano, D. M., Soto, A., & Quilca-Barrera, L. (2021). Frecuencia de coinfección por patógenos respiratorios y su impacto en el pronóstico de pacientes con COVID-       19. Revista de la Facultad de Medicina Humana, 21(3).
 [3] Xing, Q. (2020, 1 enero). Precautions are Needed for COVID-19 Patients with Coinfection of Common Respiratory Pathogens. MedRxiv.                                                   https://www.medrxiv.org/content/10.1101/2020.02.29.20027698v2.full
@@ -135,14 +135,14 @@ Hay que agregar que el cálculo de las dimensiones fractales en las ciencias mé
     https://github.com/UCSD-AI4H/COVID-CT
 
 
-### Video
+#Video
  1. Para insertar un video de YouTube, en la página de YouTube del video selecciona compartir y selecciona el código de html.
  <iframe width="560" height="315" src="https://www.youtube.com/embed/PLj1-CMNERM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
  2. Insertar el link de tu video en YouTube, [nuestro video](https://youtu.be/rmXvlBPq24Q).
  4. Puedes subir el archivo de tu video directamente a Github [instrucciones aquí](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
  
-### Equipo
+<h2><b>Equipo </b></h2>
 
 * Estudiante 1: Nancy Solís Grajales.
 * Estudiante 2: Lilián Michelle Lopez Carrasco
