@@ -1,22 +1,20 @@
 <html>
 
-<head> Las grandes consecuencias de los pequeños patógenos.</head>
-
-
-<title> Coinfección por pátogenos respiratorios y su impacto en el pronóstico de mortalidad de pacientes con COVID-19. </title>
+<head> Las grandes consecuencias de los pequeños patógenos: 
+ <b>Coinfección por pátogenos respiratorios y su impacto en el pronóstico de mortalidad de pacientes con COVID-19. </b></head>
     
  <body>
      
-<p align= justify><b>
- Para abordar el tema principal, es necesario tener conceptos que seran la clave para una comprensión idónea. </b></p>
+<p align= justify>
+ Para abordar el tema principal, es necesario tener conceptos que seran la clave para una comprensión idónea. 
 
 Iniciaremos con la definición de la microbiología, la cual es el estudio de los microorganismos y sus actividades, además de su forma, estructura, fisiología, reproducción, metabolismo etc. Su objetivo principal es comprender las reacciones que pueden ser buenas o malas en un húesped, haciendo que  se busque una forma de aumentar los beneficios y disminuir los daños que este provocan.
 
-¿Qué es un patógeno?
+                                         ¿qué es un patógeno?                
 
 
 Bueno, estos pequeños amiguitos nuestros son unos súper agentes infecciosos que nos pueden provocar  diferentes enfermedades en nuestro cuerpo.
-Así como existen diferentes tipos de helado, también hay diferentes tipos de patógenos como las siguientes:
+Así como existen diferentes tipos de helado, también hay diferentes tipos de patógenos como las siguientes:</p>
 
 * Bacterias: son procariotas, lo que quiere decir que tienen una membrana celular y  tienen una forma esférica o cilíndrica.
 * Parásitos: Pueden ser uni o multicelulares, pequeños microorganismos necesitan de un huésped para sobrevivir, además que su modo de reproducirse es de manera sexual y asexual.
