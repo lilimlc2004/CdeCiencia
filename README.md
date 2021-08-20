@@ -47,14 +47,14 @@ Para la organización mundial de la salud (OMS) y la Organización de las nacion
 
 
 Es curioso, porque es cierto el nombre de nuestro club: "Las grandes consecuencias de los pequeños patógenos". 
-¿Quién pensaría que un pequeño microorganismo fue capaz de hacer una pandemia que llevaría a confinarnos hasta la actualidad?
+<i>¿Quién pensaría que un pequeño microorganismo fue capaz de hacer una pandemia que llevaría a confinarnos hasta la actualidad?</i>
 
 Es ahí donde esos pequeños patógenos son de gran importancia y como jóvenes debemos tenemos esa curiosidad por ayudar a la ciencia a resolver uno de los 17 ODS.
 
 
   <h2><b> Métodología </b> </h2>
 
-Cada vez que empezamos un proyecto, siempre viene con nosotros aquellas preguntas sobre: ¿Que problématica me es interesante?,¿Cómo afecta esa problemática a nuestra sociedad?,¿Que han hecho ante tal problematica?,¿De dónde se obtendrá información para completar el proyecto?, ¿Quiénes serán los beneficiarios del proyecto?, por nombrar algunas preguntas.
+Cada vez que empezamos un proyecto, siempre viene con nosotros aquellas preguntas sobre: <i>¿Que problématica me es interesante?,¿Cómo afecta esa problemática a nuestra sociedad?,¿Que han hecho ante tal problematica?,¿De dónde se obtendrá información para completar el proyecto?, ¿Quiénes serán los beneficiarios del proyecto?</i>, por nombrar algunas preguntas.
 
 Para nosotros, eso fue la base primordial para la elección de un proyecto.
 Nos hemos basado en seguir los siguientes pasos de manera cronológica:
@@ -70,7 +70,7 @@ Nos hemos basado en seguir los siguientes pasos de manera cronológica:
   <br>
   
 <li>Investigar antecedentes.</li>
-   <br>
+
 <li>Crear una hipotésis.</li>
    <br>
 <li>Probar hipotésis mediante algoritmos de dimensión fractal de imagenes de CT de pulmones.</li>
