@@ -33,7 +33,10 @@
 
 
 <!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/CdeCiencia/favicon.ico" -->
+    
+<link  rel="icon"   href="Fungi amigos.jpeg" type="jpeg" />
+
+/link rel="shortcut icon" type="image/x-icon" href="/CdeCiencia/favicon.ico"
 
 <!-- end custom head snippets -->
 
