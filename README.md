@@ -43,17 +43,18 @@ Así como existen diferentes tipos de helado, también hay diferentes tipos de p
 Un panel de patógenos respiratorios (también llamado perfil PR) busca si hay patógenos en las vías respiratorias, que recordemos que el sistema respiratorio son  las partes del cuerpo que participan en la respiración, incluyendo pulmones, nariz y garganta.
 
 Teniendo esto en cuenta, vamos a empezar con la problemática que hemos abordado.
-Actualmente,para el mundo experimenta un desafío sanitario de gran envergadura, que exige hasta el extremo las estructuras sanitarias, productivas y sociales en todo el mundo.[1]
+Actualmente, el mundo experimenta un desafío sanitario de gran envergadura, que exige hasta el extremo las estructuras sanitarias, productivas y sociales en todo el mundo.[1]
 <br>
 La coinfección por dos o más patógenos respiratorios comunes podría dificultar un diagnóstico de recuperación de la infección producida por el virus SARS-CoV-2.
   <br>
-  <br>
-Es por ello que nos vamos a enfocar en dar posibles soluciones y contribuir a uno de los 17 Objetivos de Desarrollo Sostenible (ODS) pertenecientes a la Organización de las Naciones Unidas(ONU). Pero tú que estás leyendo esto te preguntarás, <i>¿Cómo relacionan el tercer objetivo: SALUD Y BIENESTAR con la coinfección por pátogenos respiratorios y su impacto en el pronóstico de mortalidad en pacientes con COVID-19?</i> [2][3]. 
+Es por ello que nos vamos a enfocar en dar posibles soluciones y contribuir a uno de los 17 Objetivos de Desarrollo Sostenible (ODS) pertenecientes a la Organización de las Naciones Unidas(ONU). 
+ <br>
+  Pero tú que estás leyendo esto te preguntarás, <i>¿Cómo relacionan el tercer objetivo: SALUD Y BIENESTAR con la coinfección por pátogenos respiratorios y su impacto en el pronóstico de mortalidad en pacientes con COVID-19?</i> [2][3]. 
   <br>
 Sencillo. Este tercer objetivo tiene como fin garantizar una vida sana y promover el bienestar para todos en todas las edades y es que actualmente, estamos viviendo una crisis mundial trayendo consigo el sufrimiento en el cambio radical en nuestras vidas.
 Para la organización mundial de la salud (OMS) y la Organización de las naciones Unidas, la COVID-19 es una emergencia sanitaria causada por un pequeño patógeno, entonces teniendo esto en cuenta, este proyecto busca tener enfoque en disminuir la tasa de mortalidad por COVID-19.[4]
 
-
+<br>
 Es curioso, porque es cierto el nombre de nuestro club: "Las grandes consecuencias de los pequeños patógenos". 
 <i>¿Quién pensaría que un pequeño microorganismo fue capaz de hacer una pandemia que llevaría a confinarnos hasta la actualidad?</i>
 
@@ -65,8 +66,7 @@ Es ahí donde esos pequeños patógenos son de gran importancia y como jóvenes 
 
 Cada vez que empezamos un proyecto, siempre viene con nosotros aquellas preguntas sobre: <i>¿Que problématica me es interesante?,¿Cómo afecta esa problemática a nuestra sociedad?,¿Que han hecho ante tal problematica?,¿De dónde se obtendrá información para completar el proyecto?, ¿Quiénes serán los beneficiarios del proyecto?</i>, por nombrar algunas preguntas.
 
-Para nosotros, eso fue la base primordial para la elección de un proyecto.
-Nos hemos basado en seguir los siguientes pasos de manera cronológica:
+Para nosotros, eso fue la base primordial para la elección de un proyecto. Nos hemos basado en seguir los siguientes pasos de manera cronológica:
   <br>
  
  <li>Seleccionar un tema.</li>
@@ -94,10 +94,18 @@ Nos hemos basado en seguir los siguientes pasos de manera cronológica:
 
 
   <h3><b> Antecedentes.</b></h3>
-La mortalidad de los pacientes infectados con COVID-19 suele estar alrededor del 5% y, en pacientes hospitalizados, la mortalidad puede llegar al 30%. La variabilidad de este y otros indicadores puede deberse a la presencia de otras condiciones como las coinfecciones respiratorias. Se han reportado la presencia de coinfecciones en alrededor del 10 a 12,5% de pacientes hospitalizados por COVID19. [5]
+La COVID-19 es una enfermedad causada por un virus de la familia de los coronavirus que fue descubierto a finales de noviembre de 2019 en Wuhan, China.
+El SARS-CoV2 entra en las células de los alveolos (los neumocitos) y utiliza el contenido que haydentro de ellas para multiplicarse de forma masiva, hasta matar a la célula en la que se encuentra. Al multiplicarse, el virus acaba con estos neumocitos y por eso se dificulta mucho el trabajo que deben realizar en cada inspiración para que el oxígeno llegue a la sangre y se reparta a todos los órganos del cuerpo.
+La destrucción de los alveolos genera una respuesta de nuestro sistema de defensa en forma de inflamación.
+<br>
+La mortalidad de los pacientes infectados con COVID-19 suele estar alrededor del 5% y, en pacientes hospitalizados, la mortalidad puede llegar al 30%. 
+ <br>                    
+  La variabilidad de este y otros indicadores puede deberse a la presencia de otras condiciones como las coinfecciones respiratorias. Se han reportado la presencia de coinfecciones en alrededor del 10 a 12,5% de pacientes hospitalizados por COVID19. [5]
   <br>
   <br>
-
+Se han realizado varios trabajos que estudian la efectividad de las tomografías computarizadas en la detección y prueba de COVID-19 y los resultados son prometedores. 
+  <br>
+ Sin embargo, debido a problemas de privacidad, las tomografías computarizadas utilizadas en estos trabajos no se comparten con el público. Esto dificulta enormemente la investigación y el desarrollo de métodos de IA más avanzados para realizar pruebas más precisas de COVID-19 basadas en CT.
 Objetivo principal: Evaluar la frecuenciade recuperación por  coinfección con patógenos respiratorios bacterianos y virales detectados en  mediante algoritmos de estimación de la dimensión fractal de las imagenes de tomografía computarizada (CT) en pulmones de personas con COVID-19.
 
 
@@ -135,6 +143,7 @@ Sin embargo, el excel de nuestro mayor interés es el de los pacientes positivos
 
 Después de tener a nuestra disposición la base de datos, se procedió a calcular la dimensión fractal de nuestros pulmones sanos y pulmones dañados con una programación en Matlab la cuál fue desarrollado por el Doctor Omar Alejandro Olvera Guerrero quien tiene un posgrado en Ciencias y Tecnologías de la Información. Él impartió la materia de procesamiento de señales biomédicas  en la Universidad Politécnica de Chiapas y fue allí donde explicó la importancia del cálculo de las dimensaiones fractales aportados a las ciencias médicas.
 
+  
 
 
 <h3><b> Resultados </b></h3>
