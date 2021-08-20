@@ -1,4 +1,6 @@
-<h1> Las grandes consecuencias de los pequeños patógenos.</h1>
+<html>
+
+<head> Las grandes consecuencias de los pequeños patógenos.</head>
 
 
 ###  Coinfección por pátogenos respiratorios y su impacto en el pronóstico de mortalidad de pacientes con COVID-19.
@@ -127,3 +129,4 @@ Hay que agregar que el cálculo de las dimensiones fractales en las ciencias mé
 * Estudiante 1: Nancy Solís Grajales.
 * Estudiante 2: Lilián Michelle Lopez Carrasco
 
+</htlm>
