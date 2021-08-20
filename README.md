@@ -163,8 +163,9 @@ Hay que agregar que el cálculo de las dimensiones fractales en las ciencias mé
 <h4><b>Equipo </b></h4>
 
 * Estudiante 1: Nancy Solís Grajales.
+  <br>
 * Estudiante 2: Lilián Michelle Lopez Carrasco
- <img src="Fungi amigos..jpeg" width=100>
+ 
     </body>
 </htlm>
 
