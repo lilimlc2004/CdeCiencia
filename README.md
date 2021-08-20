@@ -23,6 +23,7 @@ Así como existen diferentes tipos de helado, también hay diferentes tipos de p
 <br>
   <br>
 <li>Bacterias: son procariotas, lo que quiere decir que tienen una membrana celular y  tienen una forma esférica o cilíndrica.</li>
+  <img src="Bacterias.jpge" width=200>
   <br>
   <br>
 <li> Parásitos: Pueden ser uni o multicelulares, pequeños microorganismos necesitan de un huésped para sobrevivir, además que su modo de reproducirse es de manera sexual y asexual.</li>
