@@ -1,6 +1,6 @@
 <html>
 
- <head> Las grandes consecuencias de los pequeños patógenos</head> `![](Logo_CdeCMx.png)`
+ <head><right> Las grandes consecuencias de los pequeños patógenos</right></head> <left> <link rel="shortcut icon" href=img src="Logo_CdeCMx.png">
  <br>
  <br>
  <h1><b>Coinfección por pátogenos respiratorios y su impacto en el pronóstico de mortalidad de pacientes con COVID-19. </b></h1>
