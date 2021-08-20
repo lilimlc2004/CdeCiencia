@@ -20,15 +20,15 @@ Bueno, estos pequeños amiguitos nuestros son unos súper agentes infecciosos qu
 Así como existen diferentes tipos de helado, también hay diferentes tipos de patógenos como las siguientes:</p>
 <br>
   <br>
-<li>Bacterias</li>: son procariotas, lo que quiere decir que tienen una membrana celular y  tienen una forma esférica o cilíndrica.
+<li>Bacterias: son procariotas, lo que quiere decir que tienen una membrana celular y  tienen una forma esférica o cilíndrica.</li>
   <br>
   <br>
-* Parásitos: Pueden ser uni o multicelulares, pequeños microorganismos necesitan de un huésped para sobrevivir, además que su modo de reproducirse es de manera sexual y asexual.
+<li> Parásitos: Pueden ser uni o multicelulares, pequeños microorganismos necesitan de un huésped para sobrevivir, además que su modo de reproducirse es de manera sexual y asexual.</li>
   <br>
   <br>
-* Virus: son organismos infecciosos  los cuales no son considerados células y que al igua que los parásitos, necesitan d un húesped para sobrevivir. Esta compuesto por ADN y ARN.
+<li> Virus: son organismos infecciosos  los cuales no son considerados células y que al igua que los parásitos, necesitan d un húesped para sobrevivir. Esta compuesto por ADN y ARN.</li>
   <br>
-* Hongos: Son eucariotas, causan infecciones a nivel superficial o profundo. También como los parásitos, pueden ser  uni o multicelulares ya que son seres heterótrofos; su forma de reproducirse es por medio de esforas.
+</li>Hongos: Son eucariotas, causan infecciones a nivel superficial o profundo. También como los parásitos, pueden ser  uni o multicelulares ya que son seres heterótrofos; su forma de reproducirse es por medio de esforas.</li>
   <br>
 <br>
 
@@ -60,26 +60,26 @@ Para nosotros, eso fue la base primordial para la elección de un proyecto.
 Nos hemos basado en seguir los siguientes pasos de manera cronológica:
   <br>
  
- <br>Seleccionar un tema.
+ <li>Seleccionar un tema.</li>
   <br>
  
-* Identificar un problema del tema seleccionado.
+<li>Identificar un problema del tema seleccionado.</li>
   <br>
   
-* Definir e investiga del problema
+<li>Definir e investiga del problema</li>
   <br>
   
-* Investigar antecedentes.
+<li>Investigar antecedentes.</li>
    <br>
-* Crear una hipotésis.
+<li>Crear una hipotésis.</li>
    <br>
-* Probar hipotésis mediante algoritmos de dimensión fractal de imagenes de CT de pulmones.
+<li>Probar hipotésis mediante algoritmos de dimensión fractal de imagenes de CT de pulmones.</li>
    <br>
-* Analizar resultados obtenidos.
+<li> Analizar resultados obtenidos.</li>
    <br>
-* Realizar una conclusión.
+<li>Realizar una conclusión.</li>
    <br>
-* Hacer un vídeo.
+<li>Hacer un vídeo.</li>
    <br>
 
 
