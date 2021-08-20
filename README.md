@@ -7,20 +7,29 @@
      
 <p align= justify>
  Para abordar el tema principal, es necesario tener conceptos que seran la clave para una comprensión idónea. 
-
+<br>
 Iniciaremos con la definición de la microbiología, la cual es el estudio de los microorganismos y sus actividades, además de su forma, estructura, fisiología, reproducción, metabolismo etc. Su objetivo principal es comprender las reacciones que pueden ser buenas o malas en un húesped, haciendo que  se busque una forma de aumentar los beneficios y disminuir los daños que este provocan.
+ <br>
 
-                                         ¿qué es un patógeno?                
+                                                                    ¿qué es un patógeno?                
 
-
+<br>
 Bueno, estos pequeños amiguitos nuestros son unos súper agentes infecciosos que nos pueden provocar  diferentes enfermedades en nuestro cuerpo.
 Así como existen diferentes tipos de helado, también hay diferentes tipos de patógenos como las siguientes:</p>
-
+<br>
+  <br>
 * Bacterias: son procariotas, lo que quiere decir que tienen una membrana celular y  tienen una forma esférica o cilíndrica.
+  <br>
+  <br>
 * Parásitos: Pueden ser uni o multicelulares, pequeños microorganismos necesitan de un huésped para sobrevivir, además que su modo de reproducirse es de manera sexual y asexual.
+  <br>
+  <br>
 * Virus: son organismos infecciosos  los cuales no son considerados células y que al igua que los parásitos, necesitan d un húesped para sobrevivir. Esta compuesto por ADN y ARN.
+  <br>
+  <br>
 * Hongos: Son eucariotas, causan infecciones a nivel superficial o profundo. También como los parásitos, pueden ser  uni o multicelulares ya que son seres heterótrofos; su forma de reproducirse es por medio de esforas.
-
+  <br>
+<br>
 
 Un panel de patógenos respiratorios (también llamado perfil PR) busca si hay patógenos en las vías respiratorias, que recordemos que el sistema respiratorio son  las partes del cuerpo que participan en la respiración, incluyendo pulmones, nariz y garganta.
 
