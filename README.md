@@ -1,6 +1,6 @@
 <html>
 
- <head> Las grandes consecuencias de los pequeños patógenos</head>
+ <head> Las grandes consecuencias de los pequeños patógenos</head> `![](Logo_CdeCMx.png)`
  <br>
  <br>
  <h1><b>Coinfección por pátogenos respiratorios y su impacto en el pronóstico de mortalidad de pacientes con COVID-19. </b></h1>
@@ -28,7 +28,7 @@ Así como existen diferentes tipos de helado, también hay diferentes tipos de p
   <br>
 <li> Virus: son organismos infecciosos  los cuales no son considerados células y que al igua que los parásitos, necesitan d un húesped para sobrevivir. Esta compuesto por ADN y ARN.</li>
   <br>
-</li>Hongos: Son eucariotas, causan infecciones a nivel superficial o profundo. También como los parásitos, pueden ser  uni o multicelulares ya que son seres heterótrofos; su forma de reproducirse es por medio de esforas.</li>
+<li>Hongos: Son eucariotas, causan infecciones a nivel superficial o profundo. También como los parásitos, pueden ser  uni o multicelulares ya que son seres heterótrofos; su forma de reproducirse es por medio de esforas.</li>
   <br>
 <br>
 
@@ -61,24 +61,23 @@ Nos hemos basado en seguir los siguientes pasos de manera cronológica:
   <br>
  
  <li>Seleccionar un tema.</li>
-  <br>
+ 
  
 <li>Identificar un problema del tema seleccionado.</li>
-  <br>
+ 
   
 <li>Definir e investiga del problema</li>
-  <br>
-  
+   
 <li>Investigar antecedentes.</li>
 
 <li>Crear una hipotésis.</li>
-   <br>
+   
 <li>Probar hipotésis mediante algoritmos de dimensión fractal de imagenes de CT de pulmones.</li>
-   <br>
+  
 <li> Analizar resultados obtenidos.</li>
-   <br>
+   
 <li>Realizar una conclusión.</li>
-   <br>
+   
 <li>Hacer un vídeo.</li>
    <br>
 
