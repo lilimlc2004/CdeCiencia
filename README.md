@@ -108,6 +108,9 @@ Los pacientes que muestran una dimensión fractal más alto del promedio de un p
 <h3><b>Comprobación de la hipotésis.</b></h3>
 Para comprobar nuestra hipotésis, hemos trabajado con una base de datos extraída de "Towards data science" llamada: COVID-CT-Dataset: A CT Scan Dataset about COVID-19. En la cual, fomenta la investigación de la IA en el uso de las CT para combatir la COVID-19.[6]
 La base de datos contiene 349 tomografías  computarizadas  de pulmones positivas para COVID-19 y 396 muestras de pulmones sanos, ambas tienen su correspondiente archivo excel.[7]
+  <br>
+  <img src="ct covid.JPG">
+  <br>
 Sin embargo, el excel de nuestro mayor interés es el de los pacientes positivos a SARS-COV-2, ya que en él se encuentran datos esenciales para nuestra investigación tales como:
   <br>
   <br>
@@ -196,5 +199,5 @@ Hay que agregar que el cálculo de las dimensiones fractales en las ciencias mé
 * Estudiante 2: Lilián Michelle Lopez Carrasco
  
  </body>
-</htlm>
+</html>
 
