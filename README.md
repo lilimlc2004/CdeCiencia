@@ -72,7 +72,7 @@ Nos hemos basado en seguir los siguientes pasos de manera cronológica:
 
 
 
-  <h2><b>Antecedentes.</h2></b>
+  <h2><b> Antecedentes.</b></h2>
 La mortalidad de los pacientes infectados con COVID-19 suele estar alrededor del 5% y, en pacientes hospitalizados, la mortalidad puede llegar al 30%. La variabilidad de este y otros indicadores puede deberse a la presencia de otras condiciones como las coinfecciones respiratorias. Se han reportado la presencia de coinfecciones en alrededor del 10 a 12,5% de pacientes hospitalizados por COVID19. [5]
   <br>
   <br>
