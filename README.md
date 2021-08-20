@@ -7,7 +7,7 @@
  <h2><b>Coinfección por pátogenos respiratorios y su impacto en el pronóstico de mortalidad de pacientes con COVID-19. </b></h2>
     
  <body>
-  <h2><b>Introducción</b> </h2>
+  <h3><b>Introducción</b> </h3>
 <p align= justify>
  Para abordar el tema principal, es necesario tener conceptos que seran la clave para una comprensión idónea. 
 <br>
@@ -53,7 +53,7 @@ Es curioso, porque es cierto el nombre de nuestro club: "Las grandes consecuenci
 Es ahí donde esos pequeños patógenos son de gran importancia y como jóvenes debemos tenemos esa curiosidad por ayudar a la ciencia a resolver uno de los 17 ODS.
 
 
-  <h2><b> Métodología </b> </h2>
+  <h3><b> Métodología </b> </h3>
 
 Cada vez que empezamos un proyecto, siempre viene con nosotros aquellas preguntas sobre: <i>¿Que problématica me es interesante?,¿Cómo afecta esa problemática a nuestra sociedad?,¿Que han hecho ante tal problematica?,¿De dónde se obtendrá información para completar el proyecto?, ¿Quiénes serán los beneficiarios del proyecto?</i>, por nombrar algunas preguntas.
 
@@ -85,7 +85,7 @@ Nos hemos basado en seguir los siguientes pasos de manera cronológica:
 
 
 
-  <h2><b> Antecedentes.</b></h2>
+  <h3><b> Antecedentes.</b></h3>
 La mortalidad de los pacientes infectados con COVID-19 suele estar alrededor del 5% y, en pacientes hospitalizados, la mortalidad puede llegar al 30%. La variabilidad de este y otros indicadores puede deberse a la presencia de otras condiciones como las coinfecciones respiratorias. Se han reportado la presencia de coinfecciones en alrededor del 10 a 12,5% de pacientes hospitalizados por COVID19. [5]
   <br>
   <br>
@@ -93,11 +93,11 @@ La mortalidad de los pacientes infectados con COVID-19 suele estar alrededor del
 Objetivo principal: Evaluar la frecuenciade recuperación por  coinfección con patógenos respiratorios bacterianos y virales detectados en  mediante algoritmos de estimación de la dimensión fractal de las imagenes de tomografía computarizada (CT) en pulmones de personas con COVID-19.
 
 
-  <h2><b>Hipotésis.</b></h2>
+  <h3><b>Hipotésis.</b></h3>
 Los pacientes que muestran una dimensión fractal más alto del promedio de un pulmón sano, pertenecen a un grupo severo de COVID-19,tendiendo a causar coinfección con más patógenos.
 
 
-<h2><b>Comprobación de la hipotésis.</b></h2>
+<h3><b>Comprobación de la hipotésis.</b></h3>
 Para comprobar nuestra hipotésis, hemos trabajado con una base de datos extraída de "Towards data science" llamada: COVID-CT-Dataset: A CT Scan Dataset about COVID-19. En la cual, fomenta la investigación de la IA en el uso de las CT para combatir la COVID-19.[6]
 La base de datos contiene 349 tomografías  computarizadas  de pulmones positivas para COVID-19 y 396 muestras de pulmones sanos, ambas tienen su correspondiente archivo excel.[7]
 Sin embargo, el excel de nuestro mayor interés es el de los pacientes positivos a SARS-COV-2, ya que en él se encuentran datos esenciales para nuestra investigación tales como:
@@ -126,7 +126,7 @@ Después de tener a nuestra disposición la base de datos, se procedió a calcul
 
 
 
-<h2><b> Resultados </b></h2>
+<h3><b> Resultados </b></h3>
 Se cálculo el promedio de los pulmones sanos arrojando 1.84615929 además de obtener un valor mínimo de 1.5742 y teniendo un 2.081 como valor máximo de DF de pulmones dañados.
 
 Inició la comparación del promedio de los pulmones sanos con cada resultado obtenido de cada estudio de CT de pacientes con COVID-19. En donde se demostró que 189 de las 349 muestras de CT, estuvieron por encima del promedio haciendo que este sea un 54.15% del total de las muestras.
@@ -142,14 +142,14 @@ O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de 
 <img src="Logo_CdeCMx.png" width=200>
 
 
-<h2><b>Conclusiones </b></h2>
+<h3><b>Conclusiones </b></h3>
 
 A nuestra consideración como equipo y como antes se explicó, podría existir una posibilidad de hacer notar una mejoría hacia la recuperación del paciente y poder observar también un posible grado de mortalidad, esto de acuerdo a la comparación del promedio de las pruebas de pulmón con covid. Con esto, se podría comprobar la hipótesis el cual, si la DF de la imagen es mayor al del promedio, podría estar en una situación severa, ya que los alveolos estarían  llenos de flujos provocando que sean propensos a nuevos patógenos respiratorios como: neumonía,  y se obtendría una frecuencia respiratoria baja, en caso contrario, existe una recuperación y tendríamos a nuestros alveolos débiles provocando una frecuencia respiratoria mucho más inestable.
 Por último, debemos de tomar en cuenta de que para hacer una amplia investigación deberíamos comprobar las imágenes con los diferentes equipos pertenecientes al gabinete de imagenología y de laboratorio, ya que no debemos descartar ciertos posibles diagnósticos porque cada uno muestra diferentes resultados y hacen un mejor diagnóstico.
 
 Hay que agregar que el cálculo de las dimensiones fractales en las ciencias médicas aún no es un campo completamente amplio, por lo que se sugiere seguir investigando y probando diferentes métodos para poder obtener mejores resultados.
 
-<h2><b>Referencias bibliográficas.</b></h2>
+<h3><b>Referencias bibliográficas.</b></h3>
 [1] Cruz, M. P., Santos, E., Cervantes, M. V., & Juárez, M. L. (2021). COVID-19, una emergencia de salud pública mundial. Revista Clínica Española, 221(1), 55-61.
    <br>
 [2] Quiñones-Laveriano, D. M., Soto, A., & Quilca-Barrera, L. (2021). Frecuencia de coinfección por patógenos respiratorios y su impacto en el pronóstico de pacientes con COVID-       19. Revista de la Facultad de Medicina Humana, 21(3).
@@ -175,7 +175,7 @@ Hay que agregar que el cálculo de las dimensiones fractales en las ciencias mé
  2. Insertar el link de tu video en YouTube, [nuestro video](https://youtu.be/rmXvlBPq24Q).
  4. Puedes subir el archivo de tu video directamente a Github [instrucciones aquí](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
  
-<h2><b>Equipo </b></h2>
+<h4><b>Equipo </b></h4>
 
 * Estudiante 1: Nancy Solís Grajales.
 * Estudiante 2: Lilián Michelle Lopez Carrasco
