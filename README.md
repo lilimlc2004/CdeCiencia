@@ -1,6 +1,6 @@
 <html>
 
- <h1><right> Las grandes consecuencias de los pequeños patógenos</right></h1> <left>
+ <h1><font face="Times New Roman"> <i>    Las grandes consecuencias de los pequeños patógenos    </i></font ></h1>
  
  <link rel="shortcut icon" href="/static/img/favicon-32x32.png" type="image/x-icon">
  <br>
@@ -28,7 +28,7 @@ Así como existen diferentes tipos de helado, también hay diferentes tipos de p
   <br>
   <br>
 <li> Parásitos: Pueden ser uni o multicelulares, pequeños microorganismos necesitan de un huésped para sobrevivir, además que su modo de reproducirse es de manera sexual y asexual.</li>
-
+<img src="parasitos.jpg" width=200>
   <br>
   <br>
 <li> Virus: son organismos infecciosos  los cuales no son considerados células y que al igua que los parásitos, necesitan d un húesped para sobrevivir. Esta compuesto por ADN y ARN.</li>
@@ -58,6 +58,7 @@ Es curioso, porque es cierto el nombre de nuestro club: "Las grandes consecuenci
 <i>¿Quién pensaría que un pequeño microorganismo fue capaz de hacer una pandemia que llevaría a confinarnos hasta la actualidad?</i>
 
 Es ahí donde esos pequeños patógenos son de gran importancia y como jóvenes debemos tenemos esa curiosidad por ayudar a la ciencia a resolver uno de los 17 ODS.
+  <img src="ODS.png">
 
 
   <h3><b> Métodología </b> </h3>
@@ -137,9 +138,26 @@ Después de tener a nuestra disposición la base de datos, se procedió a calcul
 Se cálculo el promedio de los pulmones sanos arrojando 1.84615929 además de obtener un valor mínimo de 1.5742 y teniendo un 2.081 como valor máximo de DF de pulmones dañados.
 
 Inició la comparación del promedio de los pulmones sanos con cada resultado obtenido de cada estudio de CT de pacientes con COVID-19. En donde se demostró que 189 de las 349 muestras de CT, estuvieron por encima del promedio haciendo que este sea un 54.15% del total de las muestras.
-Dentro de la descripción de gravedad del archivo excel de personas positivas, se encontró a aquellos pacientes quienes lamentablemente habían muerto, en donde su dimensión fractal era mayor al promedio. Sin embargo, también existieron pacientes quienes estaban por abajo del promedio y que tenían en su descripción de gravedad que pertenecían a un grupo de recuperación.
+  <br>
+  <img src="valoresimportantes.JPG">
+De acuerdo a la descripción, se clasifico y se observaron los resultados de la siguiente manera:
+  <br>
+Se destacó el Grupo de mortalidad de acuerdo a su descripción, ya que en estos se pudo observar  que lamentablemente estas personas tuvieron un DF mayor al promedio:
+  <br>
+  <img src="Grupomortalidad.JPG">
 
-
+A comparación del grupo de sobreviviente de acuerdo a su descripción, estos presentaron un DF menor al rango del promedio:
+<br>
+  <img src="gruporecuperación.JPG">
+Pacientes quienes de acuerdo a su descripción mostraron ser asintomáticos, la mayoria de estos, siempre estaban cerca al rango del promedio de covid:
+  <br>
+  <img src="Grupoasintomatico.JPG">
+ Fue raro encontrar pacientes siendo niños y la mayoría de estos, manejaban debajo del rango:
+  <br>
+  <img src="Gruponiños.JPG">
+ Por último, los pacientes con covid19 embarazadas fue también un resultado que destacar por el hecho de estar en esta situación y aunque 2 de 3 se acercó al rango normal de covid:
+<br>
+  <img src="grupoembarazada.JPG">
 <h3><b>Conclusiones </b></h3>
 
 A nuestra consideración como equipo y como antes se explicó, podría existir una posibilidad de hacer notar una mejoría hacia la recuperación del paciente y poder observar también un posible grado de mortalidad, esto de acuerdo a la comparación del promedio de las pruebas de pulmón con covid. Con esto, se podría comprobar la hipótesis el cual, si la DF de la imagen es mayor al del promedio, podría estar en una situación severa, ya que los alveolos estarían  llenos de flujos provocando que sean propensos a nuevos patógenos respiratorios como: neumonía,  y se obtendría una frecuencia respiratoria baja, en caso contrario, existe una recuperación y tendríamos a nuestros alveolos débiles provocando una frecuencia respiratoria mucho más inestable.
