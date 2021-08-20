@@ -1,10 +1,10 @@
 <html>
 
- <head><right> Las grandes consecuencias de los pequeños patógenos</right></head> <left>
+ <h1><right> Las grandes consecuencias de los pequeños patógenos</right></h1> <left>
  <link rel="shortcut icon" href="/static/img/favicon-32x32.png" type="image/x-icon">
  <br>
  <br>
- <h1><b>Coinfección por pátogenos respiratorios y su impacto en el pronóstico de mortalidad de pacientes con COVID-19. </b></h1>
+ <h2><b>Coinfección por pátogenos respiratorios y su impacto en el pronóstico de mortalidad de pacientes con COVID-19. </b></h2>
     
  <body>
   <h2><b>Introducción</b> </h2>
