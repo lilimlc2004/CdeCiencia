@@ -1,0 +1,91 @@
+% Idea de : 
+% Fractal dimension (FD) calculation using differential box counting algorithm.
+% Omar S. Al-Kadi (e-mail: o.al-kadi@sussex.ac.uk; o.alkadi@ju.edu.jo)
+% University of Sussex, Brighton, UK.
+%
+% Please cite the following paper if you use this file for your research:
+% O. S. Al-Kadi and D. Watson, ?Texture Analysis of Aggressive and non-Aggressive Lung Tumor CE CT Images,? IEEE Transactions on Biomedical Engineering, vol. 55, pp. 1822-1830, 2008.
+
+% Autor código : Omar Alejandro Olvera Guerrero
+%----------------------------------------------------------------------------
+clc
+clear all
+close all
+
+
+%I = imread('tire.tif');
+% p=0.5;
+% I = randcantor(p, 256, 2);
+% imagesc(~I)
+% colormap gray
+% axis image
+% 
+% D = 2;
+% D_teorica = D + log(p)/log(2)
+ covid = 1.8465;
+ % Paciente 2 
+%I = imread('2020.02.10.20021584-p6-52%0.png');
+%I = imread(2020.02.10.20021584-p6-52%10.png');
+ I = imread('2020.03.11.20033159-p12-45%1.png');
+ I = rgb2gray(I);
+
+
+figure(1)
+imagesc(I)
+ylabel('y')
+xlabel('x')
+title('Textura')
+colormap('gray')
+
+N_cubos=7;
+[M,N]= size(I);
+%------- performing non-linear filtering on a varying size pixel block -------%
+B=zeros(M,N,N_cubos-1);
+for r=2:N_cubos
+    rc = @(x) floor(((max(x)-min(x))/r))+ 1; % non-linear filter
+    F= colfilt(I, [r r],'sliding', rc);
+    B(:,:,r)= log(double(F * (N_cubos^2/(r^2))));
+end
+
+i=log(2:N_cubos); % Normalised scale range vector
+%------- computing the slope using linear regression -------%
+Nxx=dot(i,i)-(sum(i)^2)/(N_cubos-1);
+
+
+fd1 = zeros(1,N_cubos-1);
+FD = zeros(M,N);
+ for m = 1:M
+     for n = 1:N
+         for Q=1:N_cubos-1
+             fd1(Q)=B(m,n,Q+1);  
+         end
+         fd = fliplr(fd1);
+         Nxy=dot(i,fd)-(sum(i)*sum(fd))/(N_cubos-1); 
+         FD(m,n)= Nxy/Nxx;% slope of the linear regression line
+     end
+ end
+
+%media_FD=mean(FD(:))
+median_FD = median(FD(:))
+
+%%condiciones de grupos severos o posible recuperación.
+if median_FD> covid
+    fprintf('Pacientes con COVID19 de grupos severo');
+    
+elseif median_FD< covid
+    fprintf('Pacientes de posible recuperación');
+    
+end
+   
+
+figure(2)
+imagesc(FD)
+colorbar
+
+%*----------- selecting a Region of Interest & finding corresponding average FD and Lacunarity -----------*%
+% for j=1:size(I,2)
+%     ROI= FD(S==1)
+%     FDavg = sum(ROI)/ numel(ROI) % Average FD for selected area
+%     FDsd = std(ROI) % Standard deviation of FD for selected area
+%     FDlac = ((sum(ROI.^2)/(length(ROI)))./((sum(ROI)/(length(ROI)))^2))-1 % Lacunarity for selected area
+% end
