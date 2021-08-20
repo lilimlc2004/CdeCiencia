@@ -1,17 +1,19 @@
 <html>
 
-<head> Las grandes consecuencias de los pequeños patógenos: 
- <b>Coinfección por pátogenos respiratorios y su impacto en el pronóstico de mortalidad de pacientes con COVID-19. </b></head>
+ <head> Las grandes consecuencias de los pequeños patógenos</head>
+ <br>
+ <br>
+ <title><b>Coinfección por pátogenos respiratorios y su impacto en el pronóstico de mortalidad de pacientes con COVID-19. </b></title>
     
  <body>
-     
+  <h2><b>Introducción</b> </h2>
 <p align= justify>
  Para abordar el tema principal, es necesario tener conceptos que seran la clave para una comprensión idónea. 
 <br>
 Iniciaremos con la definición de la microbiología, la cual es el estudio de los microorganismos y sus actividades, además de su forma, estructura, fisiología, reproducción, metabolismo etc. Su objetivo principal es comprender las reacciones que pueden ser buenas o malas en un húesped, haciendo que  se busque una forma de aumentar los beneficios y disminuir los daños que este provocan.
  <br>
 
-                                                               <Center>     ¿qué es un patógeno?              </Center>  
+                                                               <Center> <i>    ¿qué es un patógeno?       </i>       </Center>  
 
 <br>
 Bueno, estos pequeños amiguitos nuestros son unos súper agentes infecciosos que nos pueden provocar  diferentes enfermedades en nuestro cuerpo.
@@ -39,7 +41,8 @@ Actualmente,para el mundo experimenta un desafío sanitario de gran envergadura,
 La coinfección por dos o más patógenos respiratorios comunes podría dificultar un diagnóstico de recuperación de la infección producida por el virus SARS-CoV-2.
   <br>
   <br>
-Es por ello que nos vamos a enfocar en dar posibles soluciones y contribuir a uno de los 17 Objetivos de Desarrollo Sostenible (ODS) pertenecientes a la Organización de las Naciones Unidas(ONU). Pero tú que estás leyendo esto te preguntarás, ¿Cómo relacionan el tercer objetivo: SALUD Y BIENESTAR con la coinfección por pátogenos respiratorios y su impacto en el pronóstico de mortalidad en pacientes con COVID-19? [2][3]
+Es por ello que nos vamos a enfocar en dar posibles soluciones y contribuir a uno de los 17 Objetivos de Desarrollo Sostenible (ODS) pertenecientes a la Organización de las Naciones Unidas(ONU). Pero tú que estás leyendo esto te preguntarás, <i>¿Cómo relacionan el tercer objetivo: SALUD Y BIENESTAR con la coinfección por pátogenos respiratorios y su impacto en el pronóstico de mortalidad en pacientes con COVID-19?</i> [2][3]. 
+  <br>
 Sencillo. Este tercer objetivo tiene como fin garantizar una vida sana y promover el bienestar para todos en todas las edades y es que actualmente, estamos viviendo una crisis mundial trayendo consigo el sufrimiento en el cambio radical en nuestras vidas.
 Para la organización mundial de la salud (OMS) y la Organización de las naciones Unidas, la COVID-19 es una emergencia sanitaria causada por un pequeño patógeno, entonces teniendo esto en cuenta, este proyecto busca tener enfoque en disminuir la tasa de mortalidad por COVID-19.[4]
 
@@ -50,32 +53,34 @@ Es curioso, porque es cierto el nombre de nuestro club: "Las grandes consecuenci
 Es ahí donde esos pequeños patógenos son de gran importancia y como jóvenes debemos tenemos esa curiosidad por ayudar a la ciencia a resolver uno de los 17 ODS.
 
 
-### Métodología
+  <h2><b> Métodología </b> </h2>
 
 Cada vez que empezamos un proyecto, siempre viene con nosotros aquellas preguntas sobre: ¿Que problématica me es interesante?,¿Cómo afecta esa problemática a nuestra sociedad?,¿Que han hecho ante tal problematica?,¿De dónde se obtendrá información para completar el proyecto?, ¿Quiénes serán los beneficiarios del proyecto?, por nombrar algunas preguntas.
 
 Para nosotros, eso fue la base primordial para la elección de un proyecto.
 Nos hemos basado en seguir los siguientes pasos de manera cronológica:
-1. Seleccionar un tema.
-2. Identificar un problema del tema seleccionado.
-3. Definir e investiga del problema
-4. Investigar antecedentes.
-5. Crear una hipotésis.
-6. Probar hipotésis mediante algoritmos de dimensión fractal de imagenes de CT de pulmones.
-7. Analizar resultados obtenidos.
-8. Realizar una conclusión.
-9. Hacer un vídeo.
+* Seleccionar un tema.
+* Identificar un problema del tema seleccionado.
+* Definir e investiga del problema
+* Investigar antecedentes.
+* Crear una hipotésis.
+* Probar hipotésis mediante algoritmos de dimensión fractal de imagenes de CT de pulmones.
+* Analizar resultados obtenidos.
+* Realizar una conclusión.
+* Hacer un vídeo.
 
 
 
 
-### 4.Antecedentes.
+  <h2><b>Antecedentes.</h2></b>
 La mortalidad de los pacientes infectados con COVID-19 suele estar alrededor del 5% y, en pacientes hospitalizados, la mortalidad puede llegar al 30%. La variabilidad de este y otros indicadores puede deberse a la presencia de otras condiciones como las coinfecciones respiratorias. Se han reportado la presencia de coinfecciones en alrededor del 10 a 12,5% de pacientes hospitalizados por COVID19. [5]
+  <br>
+  <br>
 
 Objetivo principal: Evaluar la frecuenciade recuperación por  coinfección con patógenos respiratorios bacterianos y virales detectados en  mediante algoritmos de estimación de la dimensión fractal de las imagenes de tomografía computarizada (CT) en pulmones de personas con COVID-19.
 
 
-### 5.Hipotésis.
+  <h2><b>Hipotésis.</h2></b>
 Los pacientes que muestran una dimensión fractal más alto del promedio de un pulmón sano, pertenecen a un grupo severo de COVID-19,tendiendo a causar coinfección con más patógenos.
 
 
