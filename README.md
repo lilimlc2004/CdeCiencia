@@ -23,15 +23,20 @@ Así como existen diferentes tipos de helado, también hay diferentes tipos de p
 <br>
   <br>
 <li>Bacterias: son procariotas, lo que quiere decir que tienen una membrana celular y  tienen una forma esférica o cilíndrica.</li>
-  <img src="Bacterias.jpg" width=200>
+  <img src="Bacterias.JPG" width=200>
+   
   <br>
   <br>
 <li> Parásitos: Pueden ser uni o multicelulares, pequeños microorganismos necesitan de un huésped para sobrevivir, además que su modo de reproducirse es de manera sexual y asexual.</li>
+
   <br>
   <br>
 <li> Virus: son organismos infecciosos  los cuales no son considerados células y que al igua que los parásitos, necesitan d un húesped para sobrevivir. Esta compuesto por ADN y ARN.</li>
+  <img src="Virus.JPG" width=200>
   <br>
+ 
 <li>Hongos: Son eucariotas, causan infecciones a nivel superficial o profundo. También como los parásitos, pueden ser  uni o multicelulares ya que son seres heterótrofos; su forma de reproducirse es por medio de esforas.</li>
+    <img src="Hongo.JPG" width=200>
   <br>
 <br>
 
