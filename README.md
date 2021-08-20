@@ -1,6 +1,6 @@
 <html>
 
-    <head><b> Las grandes consecuencias de los pequeños patógenos.</head></b>
+    <head> Las grandes consecuencias de los pequeños patógenos.</head>
 
 
 <title> Coinfección por pátogenos respiratorios y su impacto en el pronóstico de mortalidad de pacientes con COVID-19. </title>
