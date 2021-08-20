@@ -1,6 +1,7 @@
 <html>
 
  <h1><right> Las grandes consecuencias de los pequeños patógenos</right></h1> <left>
+ 
  <link rel="shortcut icon" href="/static/img/favicon-32x32.png" type="image/x-icon">
  <br>
  <br>
@@ -132,15 +133,6 @@ Se cálculo el promedio de los pulmones sanos arrojando 1.84615929 además de ob
 Inició la comparación del promedio de los pulmones sanos con cada resultado obtenido de cada estudio de CT de pacientes con COVID-19. En donde se demostró que 189 de las 349 muestras de CT, estuvieron por encima del promedio haciendo que este sea un 54.15% del total de las muestras.
 Dentro de la descripción de gravedad del archivo excel de personas positivas, se encontró a aquellos pacientes quienes lamentablemente habían muerto, en donde su dimensión fractal era mayor al promedio. Sin embargo, también existieron pacientes quienes estaban por abajo del promedio y que tenían en su descripción de gravedad que pertenecían a un grupo de recuperación.
 
-Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas, tablas). 
-
-Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
-
-![](Logo_CdeCMx.png)
-
-O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de utilizar html es que le puedes modificar el tamaño utilizando **width**.
-<img src="Logo_CdeCMx.png" width=200>
-
 
 <h3><b>Conclusiones </b></h3>
 
@@ -167,18 +159,12 @@ Hay que agregar que el cálculo de las dimensiones fractales en las ciencias mé
     https://github.com/UCSD-AI4H/COVID-CT
    <br>
 
-
-#Video
- 1. Para insertar un video de YouTube, en la página de YouTube del video selecciona compartir y selecciona el código de html.
- <iframe width="560" height="315" src="https://www.youtube.com/embed/PLj1-CMNERM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
- 2. Insertar el link de tu video en YouTube, [nuestro video](https://youtu.be/rmXvlBPq24Q).
- 4. Puedes subir el archivo de tu video directamente a Github [instrucciones aquí](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
  
 <h4><b>Equipo </b></h4>
 
 * Estudiante 1: Nancy Solís Grajales.
 * Estudiante 2: Lilián Michelle Lopez Carrasco
+ <img src="Fungi amigos..jpeg" width=150>
     </body>
 </htlm>
 
