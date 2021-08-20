@@ -1,13 +1,14 @@
 <html>
 
-    <t> Las grandes consecuencias de los pequeños patógenos.</t>
+<head> Las grandes consecuencias de los pequeños patógenos.</head>
 
 
-<head> Coinfección por pátogenos respiratorios y su impacto en el pronóstico de mortalidad de pacientes con COVID-19. </head>
+<title> Coinfección por pátogenos respiratorios y su impacto en el pronóstico de mortalidad de pacientes con COVID-19. </title>
     
  <body>
      
-<p align=justify> Para abordar el tema principal, es necesario tener conceptos que seran la clave para una comprensión idónea. </p>
+<p align= justify><b>
+ Para abordar el tema principal, es necesario tener conceptos que seran la clave para una comprensión idónea. </b></p>
 
 Iniciaremos con la definición de la microbiología, la cual es el estudio de los microorganismos y sus actividades, además de su forma, estructura, fisiología, reproducción, metabolismo etc. Su objetivo principal es comprender las reacciones que pueden ser buenas o malas en un húesped, haciendo que  se busque una forma de aumentar los beneficios y disminuir los daños que este provocan.
 
