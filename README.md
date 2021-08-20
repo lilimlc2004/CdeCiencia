@@ -3,7 +3,7 @@
  <head> Las grandes consecuencias de los pequeños patógenos</head>
  <br>
  <br>
- <title><b>Coinfección por pátogenos respiratorios y su impacto en el pronóstico de mortalidad de pacientes con COVID-19. </b></title>
+ <h1><b>Coinfección por pátogenos respiratorios y su impacto en el pronóstico de mortalidad de pacientes con COVID-19. </b></h1>
     
  <body>
   <h2><b>Introducción</b> </h2>
@@ -59,9 +59,17 @@ Cada vez que empezamos un proyecto, siempre viene con nosotros aquellas pregunta
 
 Para nosotros, eso fue la base primordial para la elección de un proyecto.
 Nos hemos basado en seguir los siguientes pasos de manera cronológica:
+  <br>
+  <br>
 * Seleccionar un tema.
+  <br>
+  <br>
 * Identificar un problema del tema seleccionado.
+  <br>
+  <br>
 * Definir e investiga del problema
+  <br>
+  <br>
 * Investigar antecedentes.
 * Crear una hipotésis.
 * Probar hipotésis mediante algoritmos de dimensión fractal de imagenes de CT de pulmones.
@@ -88,12 +96,26 @@ Los pacientes que muestran una dimensión fractal más alto del promedio de un p
 Para comprobar nuestra hipotésis, hemos trabajado con una base de datos extraída de "Towards data science" llamada: COVID-CT-Dataset: A CT Scan Dataset about COVID-19. En la cual, fomenta la investigación de la IA en el uso de las CT para combatir la COVID-19.[6]
 La base de datos contiene 349 tomografías  computarizadas  de pulmones positivas para COVID-19 y 396 muestras de pulmones sanos, ambas tienen su correspondiente archivo excel.[7]
 Sin embargo, el excel de nuestro mayor interés es el de los pacientes positivos a SARS-COV-2, ya que en él se encuentran datos esenciales para nuestra investigación tales como:
+  <br>
+  <br>
 1.Número de dentificación del paciente.
+  <br>
+  <br>
 2. Edad.
+  <br>
+  <br>
 3. Sexo
+  <br>
+  <br>
 4. Lugar
+  <br>
+  <br>
 5. Tiempo desde que se presentaron los síntomas.
+  <br>
+  <br>
 6. Gravedad del paciente.
+  <br>
+  <br>
 
 
 Después de tener a nuestra disposición la base de datos, se procedió a calcular la dimensión fractal de nuestros pulmones sanos y pulmones dañados con una programación en Matlab la cuál fue desarrollado por el Doctor Omar Alejandro Olvera Guerrero quien tiene un posgrado en Ciencias y Tecnologías de la Información. Él impartió la materia de procesamiento de señales biomédicas  en la Universidad Politécnica de Chiapas y fue allí donde explicó la importancia del cálculo de las dimensaiones fractales aportados a las ciencias médicas.
